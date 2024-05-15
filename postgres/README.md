@@ -1,4 +1,4 @@
-# Mongo DB Replica Set
+# Postgres
 
 This is a postgres running with authentication.
 
